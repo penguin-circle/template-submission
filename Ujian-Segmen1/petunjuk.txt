@@ -1,0 +1,25 @@
+
+di folder Ujian-Segmen1 itu harus ada 4 folder(buah-buahan, makanan, minuman, dan sayuran):
+
+Ujian-Segmen1/
+├── buah-buahan
+├── makanan
+├── minuman
+└── sayuran
+
+command yang di pakai: 
+cd (pindah folder)
+ls (lihat isi folder)
+tree (lihat isi folder dengan ilustrasi pohon)
+mv (memindahkan file/folder)
+cat (baca file .txt)
+rm (hapus)
+rmdir (hapus folder)
+rm -rf (hapus file/folder secara paksa)
+
+fyi:
+- di masing-masing folder itu harus ada file-file yang seharusnya ada di folder-folder tersebut!
+- kalo ada file/folder yang tidak seharusnya ada di folder tersebut itu hapus aja!
+- screenrecord proses kamu mengerjakan ujian ini ya! 
+- setelah ujian selesai, kamu upload video screenrecord kamu di youtube dengan nama judul "The Penguin Circle | Ujian Segmen 1 - Mu'adz Hudzaifah(ganti dengan nama kamu)"
+- setelah upload, kamu isi google form(Submit Video Ujian) yang ada di deskripsi grup whatsapp The Penguin Circle 
